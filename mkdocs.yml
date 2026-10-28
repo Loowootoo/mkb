@@ -3,13 +3,12 @@ site_description: 個人知識庫與筆記
 site_author: Couga
 
 nav:
-  - 首頁: index.md
-  - 入門範例: getting-started.md
-  - 關於: about.md
-  - 算法筆記:
-      - 遞增法與算法設計: 'Algorithm Design.md'
-      - A* 演算法與靜態陣列優先隊列: 'Astar + Static Arrsy.md'
-
+  - Astar + Static Arrsy: 'Astar + Static Arrsy.md'
+  - 關於這個知識庫: 'about.md'
+  - 入門範例: 'getting-started.md'
+  - 歡迎來到我的知識庫: 'index.md'
+  - 演算法筆記:
+      - Memoization: 'Algorithm Design.md'
 theme:
   name: material
   palette:
