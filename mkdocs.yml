@@ -2,6 +2,11 @@ site_name: 我的知識庫
 site_description: 個人知識庫與筆記
 site_author: Couga
 
+nav:
+  - 首頁: index.md
+  - 入門範例: getting-started.md
+  - 關於: about.md
+
 theme:
   name: material
   palette:
