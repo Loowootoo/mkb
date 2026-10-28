@@ -7,6 +7,8 @@ nav:
   - 關於這個知識庫: 'about.md'
   - 入門範例: 'getting-started.md'
   - 歡迎來到我的知識庫: 'index.md'
+  - 有限狀態機細節: '有限狀態機細節.md'
+  - 生死: '生死.md'
   - 演算法筆記:
       - Memoization: 'Algorithm Design.md'
 theme:
