@@ -6,14 +6,14 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep-purple
+      accent: deep-purple
       toggle:
         icon: material/brightness-7
         name: 切換到淺色模式
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: deep-purple
+      accent: deep-purple
       toggle:
         icon: material/brightness-4
         name: 切換到深色模式
