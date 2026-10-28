@@ -6,6 +6,9 @@ nav:
   - 首頁: index.md
   - 入門範例: getting-started.md
   - 關於: about.md
+  - 算法筆記:
+      - 遞增法與算法設計: 'Algorithm Design.md'
+      - A* 演算法與靜態陣列優先隊列: 'Astar + Static Arrsy.md'
 
 theme:
   name: material

@@ -1,3 +1,9 @@
+---
+title: 首頁
+tags:
+  - 首頁
+---
+
 # 歡迎來到我的知識庫
 
 這是一個基於 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 建立的個人知識庫，全部內容以 Markdown 撰寫，並透過 GitHub Actions 自動部署到 GitHub Pages。
