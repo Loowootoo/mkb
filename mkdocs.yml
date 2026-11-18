@@ -1,17 +1,19 @@
 site_name: 我的知識庫
 site_description: 個人知識庫與筆記
-site_author: Couga
+site_author: Cougar Wu
 
 nav:
-  - Astar + Static Arrsy: 'Astar + Static Arrsy.md'
+  
   - 關於這個知識庫: 'about.md'
   - 入門範例: 'getting-started.md'
   - 歡迎來到我的知識庫: 'index.md'
-  - 有限狀態機細節: '有限狀態機細節.md'
-  - 更毒一點的毒雞湯: '毒雞湯.md'
-  - 生死: '生死.md'
+  - LiliKoko:
+      - 更毒一點的毒雞湯: '毒雞湯.md'
+      - 生死: '生死.md'
   - 演算法筆記:
       - Memoization: 'Algorithm Design.md'
+      - Astar + Static Arrsy: 'Astar + Static Arrsy.md'
+      - 有限狀態機細節: '有限狀態機細節.md'
 theme:
   name: material
   palette:
@@ -75,5 +77,4 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Couga
   generator: false
