@@ -8,6 +8,7 @@ nav:
   - 入門範例: 'getting-started.md'
   - 歡迎來到我的知識庫: 'index.md'
   - 有限狀態機細節: '有限狀態機細節.md'
+  - 更毒一點的毒雞湯: '毒雞湯.md'
   - 生死: '生死.md'
   - 演算法筆記:
       - Memoization: 'Algorithm Design.md'
